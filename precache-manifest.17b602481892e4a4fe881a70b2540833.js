@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4bc79f58b0bb327d034267c64fa43691",
+    "revision": "5bc3e9584438f0abf22e1ab04c202b7b",
     "url": "/country-information/index.html"
   },
   {
-    "revision": "913b26ffd218e6496905",
+    "revision": "30ebcfde53106d2ea539",
     "url": "/country-information/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "2bfa38e7ef82bbfc4693",
+    "revision": "2d39bc0a10b7e2eb13c9",
     "url": "/country-information/static/css/main.d498bfb3.chunk.css"
   },
   {
-    "revision": "913b26ffd218e6496905",
-    "url": "/country-information/static/js/2.3169c2ba.chunk.js"
+    "revision": "30ebcfde53106d2ea539",
+    "url": "/country-information/static/js/2.1da99224.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/country-information/static/js/2.3169c2ba.chunk.js.LICENSE.txt"
+    "url": "/country-information/static/js/2.1da99224.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2bfa38e7ef82bbfc4693",
-    "url": "/country-information/static/js/main.8929e6d7.chunk.js"
+    "revision": "2d39bc0a10b7e2eb13c9",
+    "url": "/country-information/static/js/main.1c2ca380.chunk.js"
   },
   {
     "revision": "161ff69a894ff36fa80f",
