@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f648fd44a9a86807a4e7ddc32beada90",
+    "revision": "f4ef7b85403dbe691da4e2b6258cb9d9",
     "url": "/country-information/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/country-information/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "b6a0e751824820bd37fd",
+    "revision": "c04ecce2d4ca0958bac9",
     "url": "/country-information/static/css/main.d498bfb3.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/country-information/static/js/2.1da99224.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b6a0e751824820bd37fd",
-    "url": "/country-information/static/js/main.64f3d677.chunk.js"
+    "revision": "c04ecce2d4ca0958bac9",
+    "url": "/country-information/static/js/main.994ff9a7.chunk.js"
   },
   {
     "revision": "161ff69a894ff36fa80f",
